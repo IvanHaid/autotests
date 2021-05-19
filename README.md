@@ -1,0 +1,2 @@
+# autotests
+Autotest via cypress
